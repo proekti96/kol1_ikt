@@ -10,7 +10,7 @@ $$
 g = \sqrt \frac {1} {1+\frac{MVF}{AVF}}
 $$
 
-$ AVF = (1 − MVF)(1 − v_{iso}) v_{ic} $
+$ AVF = (1-MVF)(1-v_{iso}) v_{ic} $
 
 $$
 g = \sqrt {1-\frac{MVF}{FVF}}
